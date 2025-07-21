@@ -8,13 +8,13 @@ package Dto;
  *
  * @author usuario
  */
-public class habitacionDto {
+public class HabitacionDto {
     private int numeroHabitacion;
     private String tipo;
     private int capacidad;
     private String estado;
 
-    public habitacionDto(int numeroHabitacion, String tipo, int capacidad, String estado) {
+    public HabitacionDto(int numeroHabitacion, String tipo, int capacidad, String estado) {
         this.numeroHabitacion = numeroHabitacion;
         this.tipo = tipo;
         this.capacidad = capacidad;

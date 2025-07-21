@@ -3,14 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/proyecto/en/clase/ProyectoEnClase.java</file>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/modelo/Huesped.java</file>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/Dao/DaoHuesped.java</file>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/Dto/HuespedDto.java</file>
+            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/Dto/HabitacionDto.java</file>
+            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/Dao/HabitacionDao.java</file>
+            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/controller/HabitacionesController.java</file>
             <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/controller/HuespedController.java</file>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/modelo/Habitacion.java</file>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/Dto/habitacionDto.java</file>
-            <file>file:/C:/Users/usuario/OneDrive/Documentos/NetBeansProjects/proyecto%20en%20clase/src/modelo/Reserva.java</file>
         </group>
     </open-files>
 </project-private>
